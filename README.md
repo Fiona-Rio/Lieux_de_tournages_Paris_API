@@ -7,7 +7,7 @@ API utilisés:
   - API des lieux de tournages à Paris depuis 2016: API publique de la ville de Paris
 
 <p align="center">
-  <img src="./img/API 2024-09-06 144325" alt="image du site" width="auto" height="auto"/>
+  <img src="API_site.png" alt="image du site" width="auto" height="auto"/>
 </p>
 
 Objectifs :
